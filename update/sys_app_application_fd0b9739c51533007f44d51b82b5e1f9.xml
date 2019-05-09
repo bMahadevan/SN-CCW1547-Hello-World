@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Helloworld</name>
+        <order/>
+        <roles>x_snc_helloworld.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-09 20:32:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fd0b9739c51533007f44d51b82b5e1f9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Helloworld</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Helloworld" source="x_snc_helloworld">b50b1339c51533007f44d51b82b5e17e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Helloworld">b50b1339c51533007f44d51b82b5e17e</sys_scope>
+        <sys_update_name>sys_app_application_fd0b9739c51533007f44d51b82b5e1f9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-09 20:32:06</sys_updated_on>
+        <title>Helloworld</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
